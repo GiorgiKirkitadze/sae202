@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'LFT Etica Mono Book';
+    src: url('LFTEticaMono-Book.eot');
+    src: local('LFT Etica Mono Book'), local('LFTEticaMono-Book'),
+        url('LFTEticaMono-Book.eot?#iefix') format('embedded-opentype'),
+        url('LFTEticaMono-Book.woff2') format('woff2'),
+        url('LFTEticaMono-Book.woff') format('woff'),
+        url('LFTEticaMono-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LFT Etica Mono';
+    src: url('LFTEticaMono-SemiBold.eot');
+    src: local('LFT Etica Mono SemiBold'), local('LFTEticaMono-SemiBold'),
+        url('LFTEticaMono-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('LFTEticaMono-SemiBold.woff2') format('woff2'),
+        url('LFTEticaMono-SemiBold.woff') format('woff'),
+        url('LFTEticaMono-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LFT Etica Mono';
+    src: url('LFTEticaMono-Regular.eot');
+    src: local('LFT Etica Mono'), local('LFTEticaMono-Regular'),
+        url('LFTEticaMono-Regular.eot?#iefix') format('embedded-opentype'),
+        url('LFTEticaMono-Regular.woff2') format('woff2'),
+        url('LFTEticaMono-Regular.woff') format('woff'),
+        url('LFTEticaMono-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LFT Etica Mono';
+    src: url('LFTEticaMono-BoldItalic.eot');
+    src: local('LFT Etica Mono Bold Italic'), local('LFTEticaMono-BoldItalic'),
+        url('LFTEticaMono-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('LFTEticaMono-BoldItalic.woff2') format('woff2'),
+        url('LFTEticaMono-BoldItalic.woff') format('woff'),
+        url('LFTEticaMono-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'LFT Etica Mono';
+    src: url('LFTEticaMono-LightItalic.eot');
+    src: local('LFT Etica Mono Light Italic'), local('LFTEticaMono-LightItalic'),
+        url('LFTEticaMono-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('LFTEticaMono-LightItalic.woff2') format('woff2'),
+        url('LFTEticaMono-LightItalic.woff') format('woff'),
+        url('LFTEticaMono-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'LFT Etica Mono';
+    src: url('LFTEticaMono-SemiBoldItalic.eot');
+    src: local('LFT Etica Mono SemiBold Italic'), local('LFTEticaMono-SemiBoldItalic'),
+        url('LFTEticaMono-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('LFTEticaMono-SemiBoldItalic.woff2') format('woff2'),
+        url('LFTEticaMono-SemiBoldItalic.woff') format('woff'),
+        url('LFTEticaMono-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'LFT Etica Mono';
+    src: url('LFTEticaMono-Bold.eot');
+    src: local('LFT Etica Mono Bold'), local('LFTEticaMono-Bold'),
+        url('LFTEticaMono-Bold.eot?#iefix') format('embedded-opentype'),
+        url('LFTEticaMono-Bold.woff2') format('woff2'),
+        url('LFTEticaMono-Bold.woff') format('woff'),
+        url('LFTEticaMono-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LFT Etica Mono';
+    src: url('LFTEticaMono-RegularItalic.eot');
+    src: local('LFT Etica Mono Italic'), local('LFTEticaMono-RegularItalic'),
+        url('LFTEticaMono-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('LFTEticaMono-RegularItalic.woff2') format('woff2'),
+        url('LFTEticaMono-RegularItalic.woff') format('woff'),
+        url('LFTEticaMono-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'LFT Etica Mono Book';
+    src: url('LFTEticaMono-BookItalic.eot');
+    src: local('LFT Etica Mono Book Italic'), local('LFTEticaMono-BookItalic'),
+        url('LFTEticaMono-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('LFTEticaMono-BookItalic.woff2') format('woff2'),
+        url('LFTEticaMono-BookItalic.woff') format('woff'),
+        url('LFTEticaMono-BookItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'LFT Etica Mono';
+    src: url('LFTEticaMono-Light.eot');
+    src: local('LFT Etica Mono Light'), local('LFTEticaMono-Light'),
+        url('LFTEticaMono-Light.eot?#iefix') format('embedded-opentype'),
+        url('LFTEticaMono-Light.woff2') format('woff2'),
+        url('LFTEticaMono-Light.woff') format('woff'),
+        url('LFTEticaMono-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+

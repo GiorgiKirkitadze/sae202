@@ -1,0 +1,35 @@
+# Translation of Plugins - Conditionally display featured image on singular posts and pages - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Conditionally display featured image on singular posts and pages - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-02 09:48:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Conditionally display featured image on singular posts and pages - Stable (latest release)\n"
+
+#: include/class-conditional-featured-image-admin.php:223
+msgid "Featured Image"
+msgstr "Image mise en avant"
+
+#. Plugin URI of the plugin
+#: conditional-featured-image.php
+msgid "https://github.com/cyrillbolliger/conditional-featured-image"
+msgstr "https://github.com/cyrillbolliger/conditional-featured-image"
+
+#. Author of the plugin
+#: conditional-featured-image.php
+msgid "Cyrill Bolliger"
+msgstr "Cyrill Bolliger"
+
+#. Plugin Name of the plugin
+#: conditional-featured-image.php
+msgid "Conditionally display featured image on singular pages and posts"
+msgstr "Afficher conditionnellement l’image mise en avant sur les pages et articles uniques."
+
+#: include/class-conditional-featured-image-admin.php:125
+msgid "Display featured image in post lists only, hide on singular views."
+msgstr "Affiche l’image mise en avant uniquement dans les listes d’articles, pas dans l’article lui-même."
